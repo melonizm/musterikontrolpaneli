@@ -2428,6 +2428,11 @@ body::before {
   appearance: auto;
 }
 
+.package-dropdown option {
+  background: #1e293b;
+  color: #f1f5f9;
+}
+
 .package-dropdown:focus {
   outline: none;
   border-color: var(--accent-primary);
